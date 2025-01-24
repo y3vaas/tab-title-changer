@@ -1,0 +1,1 @@
+javascript:void(document.title=prompt('Name?%27) ?? document.title)
